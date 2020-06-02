@@ -8,7 +8,6 @@ const Counter = () => {
 
   const handleChange = (val) => {
     setCount(count + val);
-    console.log();
   };
 
   const handleReset = () => {
